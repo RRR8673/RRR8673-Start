@@ -3,7 +3,7 @@
  * Note: The exercise expects you to have read the "Entities of Java" topic in the curriculum.
  */
 public class Questions {
-    
+
     int question1(){
         /* 
          * Replace the 0 in the return statement with the answer you believe to be true for the question below
@@ -19,7 +19,7 @@ public class Questions {
          * 
          * What line number represents the end of the "accelerate" method? 
          */
-        return 13;
+        return 14;
     }
 
     String question3(){
@@ -28,5 +28,8 @@ public class Questions {
          */
         return "string";
     }
-    
+
+    public static void main(String[] args) {
+        
+    }
 }
